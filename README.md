@@ -618,34 +618,6 @@ One possible learning sequence is:
 
 ---
 
-# Repository structure
-
-A typical project layout is:
-
-```text
-.
-├── ESP32_S3_Matrix_Madgwick_RTOS.ino
-├── madgwick.h
-├── madgwick.cpp
-├── platformio.ini
-├── partitions_ffat.csv
-├── src/
-│   ├── main.cpp
-│   ├── madgwick.h
-│   └── madgwick.cpp
-├── tool/
-│   └── rpy_viewer.py
-└── tests/
-    └── test_madgwick.cpp
-```
-
-The root `.ino`, `madgwick.h`, and `madgwick.cpp` are provided for
-Arduino IDE users.
-
-The `src/` directory is the PlatformIO version.
-
----
-
 # Educational purpose
 
 This repository is intentionally more explicit than a typical production
