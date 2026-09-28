@@ -1,8 +1,7 @@
 # ESP32-S3-Matrix Madgwick Orientation Demo
 
 
-https://github.com/user-attachments/assets/460e96f9-d29d-4ff2-88bf-eb5580e405ce
-
+https://github.com/user-attachments/assets/a2040275-4ae4-4cc7-b3bc-f9f74881850b
 
 A classroom-oriented implementation of **6-axis orientation estimation**
 on the Waveshare ESP32-S3-Matrix using its onboard **QMI8658 accelerometer
